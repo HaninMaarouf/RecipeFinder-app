@@ -28,15 +28,6 @@ The app allows users to search for meals, view recipe details, ingredients, and 
 
 ---
 
-## 📸 Preview
-
-(Add a screenshot of your project here)
-
-```
-![Recipe Finder Preview](screenshot.png)
-```
-
----
 
 ## 🔗 API
 
